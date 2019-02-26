@@ -1,2 +1,3 @@
-# 知网爬虫
-I'm a student,my name is HeYi,I learn in JingGangShan University.
+# Sperder_paper
+A method of focused crawling is presented.
+
